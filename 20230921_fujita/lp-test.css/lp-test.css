@@ -67,7 +67,7 @@ header {
 
 .firstview__content-ttl {
     font-family: 'Nanum Pen Script', cursive;
-    font-size:80px;
+    font-size: 6vw;
     line-height: 100px;
     padding: 20px 0;
     color: #b41764;
@@ -78,7 +78,7 @@ header {
 }
 
 .firstview__content-text {
-    font-size: 24px;
+    font-size: 2vw;
     font-weight: bold;
     padding: 20px 0;
     color: #b41764;
@@ -89,7 +89,7 @@ header {
 }
 
 .firstview__content-text--explain {
-    font-size: 16px;
+    font-size: 1.5vw;
     line-height: 30px;
     color: rgb(96, 99, 94);
 }
@@ -100,7 +100,7 @@ header {
 
 .news__inner {
     width: 100%;
-    padding: 10% 20%;
+    margin: 10% 20%;
 }
 
 .news__notice {
@@ -160,7 +160,7 @@ header {
 
 .about__inner {
     text-align: center;
-    padding: 5% 10%;
+    margin: 5% 10%;
 }
 
 .about__notice {
@@ -186,7 +186,7 @@ header {
 .about__content-text {
     color: rgb(90, 92, 88);
     line-height: 32px;
-    font-size: 18px;
+    font-size: 1.5vw;
     width: 45%;
 }
 
@@ -210,7 +210,7 @@ header {
 }
 
 .service__inner {
-    padding: 5% 10%;
+    margin: 5% 10%;
 }
 
 .service__notice {
@@ -257,11 +257,12 @@ header {
 .service__content-left--ttl {
     text-align: center;
     padding-bottom: 20px;
-    font-size: 20px;
+    font-size: 2vw;
 }
 
 .service__content-left--sentence {
     line-height: 28px;
+    font-size: 1.5vw;
 }
 
 .service__content-right {
@@ -299,11 +300,12 @@ header {
 
 .service__content-right--ttl {
     padding-bottom: 20px;
-    font-size: 20px;
+    font-size: 2vw;
 }
 
 .service__content-right--sentence {
     line-height: 28px;
+    font-size: 1.5vw;
 }
 
 .blog {
@@ -312,7 +314,7 @@ header {
 }
 
 .blog__inner {
-    padding: 5% 10%;
+    margin: 5% 10%;
 }
 
 .blog__notice {
@@ -367,26 +369,27 @@ header {
 
 .blog__card-ttl {
     line-height: 28px;
-    font-size: 16px;
+    font-size: 1.5vw;
 }
 
 .blog__card-tag {
     display: flex;
     padding-top: 20px;
     justify-content: space-between;
+    font-size: 1vw;
 }
 
 .blog__index{
     text-align: center;
-    padding: 20px;
+    padding: 3%;
     border: 3px solid #b41764;
     margin: 30px auto;
     display: block;
-    width: 200px;
+    width: 20%;
     color: #b41764;
     background-color: #fff;
     border-radius: 30px;
-    font-size: 16px;
+    font-size: 1.5vw;
     font-weight: bold;
 }
 
@@ -395,7 +398,7 @@ header {
 }
 
 .company__inner {
-    padding: 5% 20%;
+    margin: 5% 20%;
 }
 
 .company__notice {
@@ -456,7 +459,7 @@ header {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 36px;
+    font-size: 3vw;
     color: #f0f0f0;
 }
 
@@ -477,7 +480,7 @@ header {
 .contact__content-text {
     color: rgb(92, 92, 92);
     font-weight: bold;
-    font-size: 20px;
+    font-size: 1.7vw;
 }
 
 .contact__content-line {
