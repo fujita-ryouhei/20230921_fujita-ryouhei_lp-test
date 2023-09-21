@@ -99,7 +99,6 @@ header {
 }
 
 .news__inner {
-    width: 100%;
     margin: 10% 20%;
 }
 
@@ -131,7 +130,7 @@ header {
     align-items: center;
     margin: 10px 0;
     border-bottom: 1px solid rgb(212, 216, 208);
-    font-size: 20px;
+    font-size: 2vw;
 }
 
 .news__table-date {
